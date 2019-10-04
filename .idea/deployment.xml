@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="APIs-Objects-and-Interfaces" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
+  <component name="PublishConfigData" serverName="APIs-Objects-and-Interfaces" uploadOnCheckin="be2124eb-034d-4353-8ad5-4f262dd1a554" exclude=".svn;.cvs;.idea;.DS_Store;.git;.hg;node_modules;dist;*.js.map;vendor">
     <serverData>
       <paths name="APIs-Objects-and-Interfaces">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="APIs-Objects-and-Interfaces" />
   </component>
 </project>
